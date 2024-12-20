@@ -1,8 +1,5 @@
-package com.example.locking.item;
+package com.example.locking.product;
 
-import com.example.locking.product.Product;
-import com.example.locking.product.ProductRepository;
-import com.example.locking.product.ProductService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
